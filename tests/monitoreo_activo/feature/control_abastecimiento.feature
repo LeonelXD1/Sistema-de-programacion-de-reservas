@@ -23,7 +23,6 @@ Característica: Control de abastecimiento de efectivo
 
   Escenario: Notificar al operador cuando el efectivo del cajero cae por debajo del mínimo
     Dado un operador autorizado que tiene asignado el cajero ATM-A, activo y conectado
-    Y el cajero tiene establecido
     Y la capacidad de cada casillero es la siguiente:
       | denominacion | capacidad_maxima | monto_minimo |
       | 20           | 40               | 10           |
