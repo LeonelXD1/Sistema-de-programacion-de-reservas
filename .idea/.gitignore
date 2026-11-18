@@ -1,12 +1,37 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Markdown personal settings
-/markdown.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Ignored default folder with query files
-/queries/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# PyCharm
+.idea/
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Bases de datos locales
+db.sqlite3
+db.sqlite3-journal
+
+# Archivos temporales y logs
+*.log
+*.tmp
+
+# Archivos generados
+staticfiles/
+media/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

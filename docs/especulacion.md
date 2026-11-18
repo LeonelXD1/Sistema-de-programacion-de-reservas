@@ -1,5 +1,0 @@
-# Visión
-
-**Para** clientes de salones de belleza y peluquerías que desean gestionar sus citas, y administradores responsables de organizar la atención del negocio, **que** necesitan coordinar reservas de servicios y horarios de especialistas sin depender principalmente de llamadas telefónicas o registros manuales, **el** sistema de reservas para salones **es una** aplicación de gestión de citas, **que** permite a los clientes consultar la disponibilidad de servicios y especialistas, reservar, consultar, modificar y cancelar sus citas de manera autónoma, mientras facilita a los administradores la organización de horarios y disponibilidad del personal, **a diferencia de** los procesos tradicionales de reserva mediante llamadas telefónicas, mensajes y agendas manuales, **nuestro producto** centraliza las citas y la disponibilidad de los especialistas, ofreciendo a los clientes mayor autonomía para gestionar sus reservas y al negocio una agenda coordinada que ayuda a prevenir conflictos de horarios.
-
-# Objetivos de negocio
